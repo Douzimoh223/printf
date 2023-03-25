@@ -1,3 +1,5 @@
+#include <stdarg.h>
+#include "main.h"
 /************************* PRINT CHAR *************************/
 
 /**
